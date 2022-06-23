@@ -1,0 +1,1 @@
+es un archivo de texto plano que sirve solo para practicar git y github
