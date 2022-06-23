@@ -1,3 +1,7 @@
 es un archivo de texto plano que sirve solo para practicar git y github
 
-modificamos el archivo de prueba en el repositorio remoto (la nube).
+modificamos el archivo de prueba en el repositorio remoto (la nube). 2022/06/22 21:45
+
+creamos una rama "rama-1" y trabajamos sobre esta 2022/06/22 22:35
+
+creamos otra rama "rama-2" con el comando checkout -B 2022/06/22 22:45
